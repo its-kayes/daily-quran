@@ -1,7 +1,7 @@
 {
   "name": "Daily Quran",
   "description": "Access and reflect on Quranic verses anytime, directly from your browser.",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "its-kayes",
   "manifest_version": 3,
   "action": {

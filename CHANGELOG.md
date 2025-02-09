@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.2] - 2025-02-09
+### Fixed
+- Added new FIve Surah 
+    - Al Bakara
+    - Al Imraan
+    - Al Nisa
+    - Al Maida
+    - Al Anam
+
 ## [1.1.1] - 2025-01-07
 ### Fixed
 - Resolved Chrome Web Store installation warnings.
